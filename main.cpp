@@ -11,6 +11,8 @@
 // Deliveryman plate number = UTM5050
 //------------------------------------------------------------------------------
 
+//You can copy this and run it on VS Code (best one)/any other IDE
+
 #include <cstring>
 #include <iomanip>
 #include <iostream>
